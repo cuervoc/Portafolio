@@ -1,6 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/davidsal/public_html/Portafolio/
-    - /bin/cp index.html $DEPLOYPATH
-   
